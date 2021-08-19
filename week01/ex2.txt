@@ -1,0 +1,81 @@
+    1  sudo mv ./google-chrome-stable_current_amd64.deb ~/Downloads/
+    2  lds
+    3  ls
+    4  ls -lah
+    5  sudo chmod +x ./google-chrome-stable_current_amd64.deb 
+    6  ./google-chrome-stable_current_amd64.deb 
+    7  sudo chmod 777 ./google-chrome-stable_current_amd64.deb 
+    8  ./google-chrome-stable_current_amd64.deb 
+    9  sudo dpkg -i ./google-chrome-stable_current_amd64.deb 
+   10  ifconfig
+   11  sudo apt-get install net-tools
+   12  ifconfig
+   13  sudo apt-get install apache2
+   14  ls
+   15  cd..
+   16  cd ..
+   17  ls
+   18  nautilus
+   19  ls
+   20  cd tmp/
+   21  nautilus
+   22  nautilus .
+   23  cd ..
+   24  apt-get install snap
+   25  sudo apt-get install snap
+   26  snap-store
+   27  sudo killall snap-store
+   28  snap-store
+   29  sudo apt updaye
+   30  sudo apt update
+   31  sudo apt install dpkg
+   32  sudo apt autoremove
+   33  cd ~/Downloads/
+   34  ls
+   35  sudo chmod +x ./google-chrome-stable_current_amd64.deb 
+   36  ./google-chrome-stable_current_amd64.deb \
+   37  ./google-chrome-stable_current_amd64.deb
+   38  dpkg
+   39  ps aux
+   40  top
+   41  apt-get install htop
+   42  sudo apt-get install htop
+   43  htop
+   44  nano 
+   45  ps aux | grep firefox
+   46  sudo apt-get update
+   47  sudo apt-get install app-install-data
+   48  sudo apt-get install mlocate
+   49  locate firefox
+   50  update-db
+   51  updatedb
+   52  sudo updatedb
+   53  echo -h
+   54  echo kfgnfntth
+   55  man echo
+   56  cd Desktop
+   57  mkdir OS
+   58  sudo apt install git
+   59  cd OS
+   60  git clone https://github.com/Asem-Abdelhady/OS.git
+   61  ls
+   62  cd ..
+   63  mv OS/OS ./OS2
+   64  ls
+   65  rmdir -r OS OS2
+   66  rmdir OS OS2
+   67  rm -r OS OS2
+   68  ls
+   69  sudo rm -r OS2
+   70  history
+   71* 
+   72  git clone https://github.com/Asem-Abdelhady/OS.git
+   73  ls
+   74  cd OS
+   75  ls
+   76  git status
+   77  ls
+   78  ls /usr/bin/ 
+   79  ls /usr/bin/ | grep gcc | sort -r > ex1.txt
+   80  nano ex1.txt 
+   81  history > ex2.txt
