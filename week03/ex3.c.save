@@ -1,0 +1,29 @@
+
+struct Node{
+		int item;
+		struct* Node next;
+	};
+	
+void print_list(struct node *head){
+	while(head!= null){
+		printf("\n %d", head-> item);
+		head = head->next;
+	}
+}
+
+void insert_node(struct node *head, struct node *newnode, struct node *prevnode){
+	while(head!= prenode){
+		head = head->next;
+	}
+	
+	
+}
+
+void delete_node(struct node *head, struct node *delnode){
+	
+}
+
+int main(void) {
+
+	return 0;
+}
