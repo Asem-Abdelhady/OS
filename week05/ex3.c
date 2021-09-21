@@ -19,7 +19,7 @@ void *consumer()
 
         if(producer_sleep && consumer_sleep)
         {
-            printf("race condition(\n");
+            printf("race condition\n");
             exit(1);
         }
 
@@ -47,7 +47,7 @@ void *producer()
 
         if(producer_sleep && consumer_sleep)
         {
-            printf("race condition(\n");
+            printf("race condition\n");
             exit(1);
         }
 
