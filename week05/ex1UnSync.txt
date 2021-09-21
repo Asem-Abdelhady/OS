@@ -1,0 +1,10 @@
+creating thread 1
+creating thread 2
+creating thread 3
+terminating thread 3
+creating thread 4
+terminating thread 4
+terminating thread 4
+creating thread 5
+terminating thread 5
+terminating thread 0
