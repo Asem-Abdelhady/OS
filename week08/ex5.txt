@@ -1,0 +1,3 @@
+Phyisical address: The actual stored in the RAM for a program has and address. This address is called physical address.
+Virtual address  : The free space in the (RAM) is not contagious nor enough sometimes. That is why the OS creates virtual memory to correspond to the physical address in the RAM.
+		   The address that correspond to the physical address is called Virtual address.

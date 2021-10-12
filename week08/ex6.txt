@@ -1,0 +1,12 @@
+we have 16 bits as a virtual address.
+page frame = 8KB = 8192 bytes.
+
+1 virtual address in the page table entry = frame number + page number.
+
+1 page frame = 2^13 addresses.
+
+13 bits available for frame number.
+
+3 bits are left from the virtual address.
+
+For the page number we will end up with 2^3 entries. 
