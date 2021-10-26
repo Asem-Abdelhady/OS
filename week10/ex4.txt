@@ -1,0 +1,5 @@
+Found 1 files with more than 2 hard links:
+I-node: 2357769 (2 files)
+	file1
+	link1
+
