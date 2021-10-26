@@ -1,0 +1,8 @@
+to improve H/M (maximize hit count, minimize miss count),
+
+We can request the same page reference several times in a row.
+3 page frames (example): 11111-> 5 hits, 1 miss 1
+
+
+We can request as many distinct references as possible with as few repeats as feasible to reduce H/M (minimize hit count, maximum miss count).
+3 page frames (example):  1 2 3 4 5 6 this leads to 6 misses and 0 hits 

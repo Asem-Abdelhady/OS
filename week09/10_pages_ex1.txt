@@ -1,0 +1,2 @@
+Hits: 10, Misses: 990
+Hits/Misses = 0.010101
