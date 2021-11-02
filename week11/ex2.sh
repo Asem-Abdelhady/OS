@@ -1,6 +1,6 @@
 pth=`pwd`/lofsdisk
 sudo echo ${pth}
-sudo mkdir -p $pth{bin,lib,lib64}
+sudo mkdir -p $pth/{bin,lib,lib64}
 sudo cp -v /bin/{bash,ls,echo,cat} $pth/bin
 list="$(ldd /bin/bash | egrep -o '/lib.*\.[0-9]')"
 for i in $list; do sudo cp -v --parents "$i" "${pth}"; done

@@ -1,12 +1,13 @@
 The chroot
-lib
+file1
+{bin,lib,lib64}
+lib64
+lost+found
 ex2.out
 .
 file2
-file1
-lost+found
 ..
-lib64
+lib
 Without chroot
 lost+found
 var
