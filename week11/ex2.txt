@@ -1,0 +1,37 @@
+The chroot
+lib
+ex2.out
+.
+file2
+file1
+lost+found
+..
+lib64
+Without chroot
+lost+found
+var
+sys
+media
+mnt
+usr
+lib64
+lib
+tmp
+..
+home
+lib32
+srv
+libx32
+.
+root
+etc
+bin
+proc
+boot
+sbin
+cdrom
+opt
+run
+swapfile
+dev
+snap

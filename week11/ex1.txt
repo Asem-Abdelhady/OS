@@ -1,0 +1,2 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/loop19      45M   48K   41M   1% /home/asem/Desktop/OS/week11/lofsdisk
