@@ -1,0 +1,6 @@
+dma: devices that can directly address memory without affecting the CPU
+
+pic1: It's called a peripheral interface controller since it's used by a peripheral device.
+
+
+timer1: Timers allow you to plan the execution of a timer handler for a later date.
