@@ -1,0 +1,13 @@
+Recovery, prevention, and avoidance are the three methods for dealing with stalemate.
+In recovery mode, the operating system allows the impasse to occur before attempting to resolve the problem.
+To do so, it might try to deprive the process that is causing the stalemate of a preemptive resource.
+It may also employ rollback, which means it will create checkpoints throughout the program's execution and return to them.
+Finally, it can simply terminate the process that is creating the stalemate. This is the most basic strategy and should be avoided at all costs.
+
+The second approach is to try to avoid deadlocks by ensuring that at least one of the four requirements is never satisfied.
+Each ailment has its own method of prevention, with some being more difficult than others.
+They all have a restriction on how many resources a process may have.
+
+The third option, avoidance, is the best since it avoids a stalemate while also not limiting resources, as prevention does.
+It only works if certain information is provided ahead of time, such as determining whether or not providing a specific resource is safe.
+This necessitates the use of a clever scheduling method.
